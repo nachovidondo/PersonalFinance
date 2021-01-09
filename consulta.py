@@ -3,7 +3,7 @@ import os
 
 
 APP_PATH=os.getcwd()
-DB_PATH = APP_PATH + "gastosdatabase.db"
+DB_PATH = APP_PATH + "\gastosdatabase.db"
 
 class Consult():
     def __init__(self):
